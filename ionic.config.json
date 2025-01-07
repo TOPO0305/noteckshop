@@ -1,0 +1,7 @@
+{
+  "name": "noteckshop",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
